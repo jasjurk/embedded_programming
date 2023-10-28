@@ -1,0 +1,1 @@
+Just a wifi-capable oscilloscope, pretty slow but very safe to use for your computer, since there is no electrical connection between it and computer USB hub(unless you plug it in of course). Mostly used for debugging of sound signals. It's prudent to add a BNC connector and a voltage divider, since ADC of ESP8266 only read 0V-1V.
