@@ -1,6 +1,3 @@
-[submodule "espusb"]
-	path = espusb
-	url = https://github.com/jasjurk/espusb
 [submodule "Hardpad/source/espusb"]
 	path = Hardpad/source/espusb
 	url = https://github.com/jasjurk/espusb
